@@ -23,8 +23,11 @@ This system is designed to help the customers to take bikes or two-wheelers for 
 
 # To run this project
 1.create a database in mysql
+
 2.import the sql files
+
 3.add your database name in functionbd.py
+
 4.run frontend by the command `python main.py`
 
 
